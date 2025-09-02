@@ -1,4 +1,4 @@
-\# SecOps Agent — MCP + Agentic Playbook (from scratch)
+\# SecOps Agent — MCP + Agentic Playbook 
 
 
 
