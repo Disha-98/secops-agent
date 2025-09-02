@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Generated data
+data/sample_logs.jsonl
+cases/
+
+# Logs & OS junk
+*.log
+.DS_Store
+Thumbs.db

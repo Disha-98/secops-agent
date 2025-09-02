@@ -1,0 +1,19 @@
+﻿{
+    "ips":  {
+                "10.10.10.10":  {
+                                    "verdict":  "malicious",
+                                    "sources":  [
+                                                    "internal_lab"
+                                                ]
+                                },
+                "8.8.8.8":  {
+                                "verdict":  "benign",
+                                "sources":  [
+                                                "public"
+                                            ]
+                            }
+            },
+    "hashes":  {
+
+               }
+}
